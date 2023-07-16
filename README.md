@@ -1,5 +1,5 @@
 ### Hello World! 👋
-I am a passionate full-stack software engineer from Bangladesh, dedicated to creating cutting-edge applications using React and Node.js. With a strong focus on both front-end and back-end development, I strive to deliver high-quality solutions that exceed expectations.
+I am a passionate full-stack software engineer from Poland, dedicated to creating cutting-edge applications using React and Node.js. With a strong focus on both front-end and back-end development, I strive to deliver high-quality solutions that exceed expectations.
 
 - 🔭 Currently working on multiple frontend and backend projects
 - 🌱 Continuously expanding my knowledge and expertise in design patterns
