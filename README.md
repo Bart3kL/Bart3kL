@@ -21,7 +21,7 @@ I have expertise in the following technologies:
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ## Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-bartek__bart3kl-%237289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/bartek_bart3kl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bartosz%20Lewandowski-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-lewandowski-458130266/)
+- [![Discord](https://img.shields.io/badge/Discord-bartek__bart3kl-%237289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/bartek_bart3kl)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bartosz%20Lewandowski-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-lewandowski-458130266/)
 
 Feel free to explore my repositories and join me on this exciting coding journey, where algorithms turn into poetry and coding becomes an art. Let's create something amazing together! ✨
